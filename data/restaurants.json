@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Spice Junction",
+    "description": "Authentic Indian restaurant specializing in flavorful dishes.",
+    "area": "Bodakdev",
+    "city": "Ahmedabad",
+    "capacity": 80,
+    "rating": 4.7,
+    "cuisine": "Indian",
+    "image": "https://img.freepik.com/free-vector/restaurant-mural-wallpaper-concept_23-2148671800.jpg?w=2000&t=st=1721239758~exp=1721240358~hmac=8f1240577dab8da32672a00cfaa71942279af64adecf7c81b74ea9d144ae38c6"
+  },
+  {
+    "id": 2,
+    "name": "Taste of India",
+    "description": "Traditional Indian cuisine in a modern setting.",
+    "area": "SBR",
+    "city": "Ahmedabad",
+    "capacity": 60,
+    "rating": 4.5,
+    "cuisine": "Indian",
+    "image": "https://img.freepik.com/premium-photo/food-yummy-background_636537-211993.jpg?w=2000"
+  },
+  {
+    "id": 3,
+    "name": "Japanese House",
+    "description": "Family-owned restaurant offering a variety of curry dishes.",
+    "area": "Maninagar",
+    "city": "Ahmedabad",
+    "capacity": 400,
+    "rating": 4.5,
+    "cuisine": "Japanese",
+    "image": "https://as1.ftcdn.net/v2/jpg/08/20/65/04/1000_F_820650498_bm1wOZTsWyDKP7EUb2xK6cV5SPLvf5FB.jpg"
+  }
+]
